@@ -1,0 +1,5 @@
+name,tamano,tiempo,tamano,tiempo,tamano,tiempo,tipo,tipoProblema
+abeaumont, 6000, 15.625, 12000, 31.25, 18000, 26.0417, 0, 0
+DanielVallejo, 6000, 20.8333, 12000, 26.0417, 18000, 31.25, 0, 0
+david-perez, 6000, 26.0417, 12000, 31.25, 18000, 26.0417, 0, 0
+eduherminio, 6000, 161.458, 12000, 296.875, 18000, 437.5, 0, 0

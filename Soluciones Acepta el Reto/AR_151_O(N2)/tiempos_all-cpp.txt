@@ -1,0 +1,4 @@
+name,tamano,tiempo,tamano,tiempo,tamano,tiempo,tipo,tipoProblema
+DanielVallejo, 15, 166.667, 30, 458.333, 45, 958.333, 4, 4
+david-perez, 15, 437.5, 30, 1739.58, 45, 3640.62, 4, 4
+hnko, 15, 593.75, 30, 2260.42, 45, 5036.46, 4, 4

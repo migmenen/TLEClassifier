@@ -1,0 +1,9 @@
+maxLength 1000
+problemType 2
+abeaumont
+-DanielVallejo
+david-perez
+eduherminio
+java
+IvanPerez9_arena
+MiYazJE_arena

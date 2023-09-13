@@ -1,0 +1,4 @@
+name,tamano,tiempo,tamano,tiempo,tamano,tiempo,tipo,tipoProblema
+caiomed03_JAVA, 15, 3957.03, 30, 7322.27, 45, 11974.6, 4, 4
+IvanPerez9_JAVA, 15, 8609.38, 30, 25203.1, 45, 52142.6, 4, 4
+MiYazJE_JAVA, 15, 8503.91, 30, 24925.8, 45, 51849.6, 4, 4

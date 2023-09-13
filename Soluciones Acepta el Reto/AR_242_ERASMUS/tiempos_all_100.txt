@@ -1,0 +1,5 @@
+name,tamano,tiempo,tamano,tiempo,tamano,tiempo,tipo,tipoProblema
+Erasmus_Sol_Lineal_CPP, 30000, 1781.25, 60000, 3562.5, 90000, 5343.75, 0, 0
+Erasmus_Sol_Cuadratica_CPP, 30000, 95921.9, 60000, 376312, 90000, 847250, 0, 0
+Erasmus_Sol_Lineal_JAVA_JAVA, 30000, 1906.25, 60000, 3375, 90000, 4656.25, 0, 0
+Erasmus_Sol_Cuadratica_JAVA_JAVA, 30000, 19218.8, 60000, 72812.5, 90000, 159250, 0, 0

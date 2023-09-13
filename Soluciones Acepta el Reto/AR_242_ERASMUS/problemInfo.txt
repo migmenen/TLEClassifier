@@ -1,0 +1,7 @@
+maxLength 100000
+problemType 0
+Erasmus_Sol_Lineal
+Erasmus_Sol_Cuadratica
+java
+Erasmus_Sol_Lineal_JAVA
+Erasmus_Sol_Cuadratica_JAVA

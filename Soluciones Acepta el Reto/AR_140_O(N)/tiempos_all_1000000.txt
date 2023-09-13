@@ -1,0 +1,6 @@
+name,tamano,tiempo,tamano,tiempo,tamano,tiempo,tipo,tipoProblema
+DanielVallejo, 3, 1848.96, 6, 1989.58, 9, 1593.75, 2, 2
+david-perez, 3, 1901.04, 6, 2723.96, 9, 3557.29, 2, 2
+eduherminio, 3, 2052.08, 6, 3005.21, 9, 3911.46, 2, 2
+hnko, 3, 1802.08, 6, 1963.54, 9, 1500, 2, 2
+Orgalorexe, 3, 1984.38, 6, 1838.54, 9, 1791.67, 2, 2

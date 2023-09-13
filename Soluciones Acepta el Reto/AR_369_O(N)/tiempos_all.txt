@@ -1,0 +1,3 @@
+name,tamano,tiempo,tamano,tiempo,tamano,tiempo,tipo,tipoProblema
+IvanPerez9_arena_JAVA, 300, 2703.12, 600, 5003.91, 900, 7380.86, 2, 2
+MiYazJE_arena_JAVA, 300, 2707.03, 600, 5031.25, 900, 7386.72, 2, 2

@@ -1,0 +1,6 @@
+name,tamano,tiempo,tamano,tiempo,tamano,tiempo,tipo,tipoProblema
+abeaumont, 300, 20.8333, 600, 41.6667, 900, 57.2917, 2, 2
+DanielVallejo, 300, 15.625, 600, 15.625, 900, 15.625, 2, 2
+david-perez, 300, 20.8333, 600, 41.6667, 900, 57.2917, 2, 2
+eduherminio, 300, 31.25, 600, 36.4583, 900, 57.2917, 2, 2
+nwolyniec, 300, 15.625, 600, 15.625, 900, 15.625, 2, 2

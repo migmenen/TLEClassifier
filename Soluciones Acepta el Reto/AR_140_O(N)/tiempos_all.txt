@@ -1,0 +1,6 @@
+name,tamano,tiempo,tamano,tiempo,tamano,tiempo,tipo,tipoProblema
+DanielVallejo_CPP, 3, 18832, 6, 20095.7, 9, 16361.3, 2, 2
+david-perez_CPP, 3, 19320.3, 6, 29037.1, 9, 36435.5, 2, 2
+eduherminio_CPP, 3, 21978.5, 6, 32296.9, 9, 41005.9, 2, 2
+hnko_CPP, 3, 18572.3, 6, 19953.1, 9, 15916, 2, 2
+Orgalorexe_CPP, 3, 18433.6, 6, 19482.4, 9, 17974.6, 2, 2

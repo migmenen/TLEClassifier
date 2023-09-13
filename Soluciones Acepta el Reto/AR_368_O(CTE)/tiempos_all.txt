@@ -1,0 +1,2 @@
+name,tamano,tiempo,tamano,tiempo,tamano,tiempo,tipo,tipoProblema
+MiYazJE_huevos_JAVA, 3000, 25257.8, 6000, 25193.4, 9000, 25261.7, 0, 0

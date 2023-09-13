@@ -1,0 +1,10 @@
+maxLength 1000
+problemType 2
+abeaumont
+DanielVallejo
+david-perez
+eduherminio
+nwolyniec
+java
+caiomed03_7picos
+MiYazJE_7picos
